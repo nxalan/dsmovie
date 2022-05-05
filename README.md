@@ -9,15 +9,15 @@ You can access the application [HERE](https://ds-movie.netlify.app/)
 The application consists of a web page with a list of some movies. The page allows user interaction through ratings of movies listed in the web app. 
 
 ## Layout mobile
-![Mobile 1](https://github.com/nxalan/dsmovie/blob/main/_assets/mob1.png) ![Mobile 2](https://github.com/nxalan/dsmovie/blob/main/_assets/mob2.PNG)
+![Mobile 1](https://github.com/nxalan/dsmovie/blob/main/_assets/mob1.png) ![Mobile 2](https://github.com/nxalan/dsmovie/blob/main/_assets/mob2.png)
 
 ## Layout web
-![Web1](https://github.com/nxalan/dsmovie/blob/main/_assets/web1.PNG)
-![Web2](https://github.com/nxalan/dsmovie/blob/main/_assets/web2.PNG)
-![Web3](https://github.com/nxalan/dsmovie/blob/main/_assets/web3.PNG)
+![Web1](https://github.com/nxalan/dsmovie/blob/main/_assets/web1.png)
+![Web2](https://github.com/nxalan/dsmovie/blob/main/_assets/web2.png)
+![Web3](https://github.com/nxalan/dsmovie/blob/main/_assets/web3.png)
 
 ## Conceptual model
-![Modelo Conceitual](https://github.com/nxalan/dsmovie/blob/main/_assets/MC.PNG)
+![Modelo Conceitual](https://github.com/nxalan/dsmovie/blob/main/_assets/MC.png)
 
 # Technologies used
 ## Back end
